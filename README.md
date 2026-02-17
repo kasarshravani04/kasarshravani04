@@ -1,4 +1,4 @@
-# Hi, I'm Shravani Kasar! 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Shravani Kasar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Frontend+Developer;React.js+Specialist;Figma-to-Code+Expert;Open+Source+Enthusiast)
 
 ### Frontend Developer | React.js Enthusiast
@@ -7,12 +7,12 @@ I am a passionate **Frontend Developer** dedicated to building pixel-perfect, re
 
 ### 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-blue?style=for-the-badge&logo=github" width="60" title="Pull Shark" alt="Pull Shark">
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-purple?style=for-the-badge&logo=github" width="60" title="Quickdraw" alt="Quickdraw">
+  <img src="https://github.com/kasarshravani04?achievement=quickdraw&tab=achievements" width="60" title="Pull Shark" alt="Pull Shark">
+  <img src="https://github.com/kasarshravani04?achievement=pull-shark&tab=achievements" width="80" title="Quickdraw" alt="Quickdraw">
 </p>
 
-- **Pull Shark:** Awarded for merging pull requests and contributing to projects.
 - **Quickdraw:** Awarded for closing issues/PRs rapidly.
+- - **Pull Shark:** Awarded for merging pull requests and contributing to projects.
 
 ---
 
@@ -26,20 +26,19 @@ I am a passionate **Frontend Developer** dedicated to building pixel-perfect, re
 
 ### 🛠️ Technical Skills
 
-**Languages & Core:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+#### Languages & core
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" /> **HTML5** — *Structure & SEO*
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" /> **CSS3** — *Responsive Design & Animations*
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" /> **JavaScript** — *ES6+ & DOM Manipulation*
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+###  Frameworks & Libraries
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" /> **React.js** — *Component-based UI & Hooks*
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="35" /> **Tailwind CSS** — *Utility-first Styling*
 
-**Tools & Others:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+####  Tools & Design
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" /> **Figma** — *UI/UX Design Translation*
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" /> **Git** — *Version Control*
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" /> **VS Code** — *Primary IDE*
 
 ---
 

@@ -7,12 +7,11 @@ I am a passionate **Frontend Developer** dedicated to building pixel-perfect, re
 
 ### 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://github.com/kasarshravani04?achievement=quickdraw&tab=achievements" width="60" title="Pull Shark" alt="Pull Shark">
-  <img src="https://github.com/kasarshravani04?achievement=pull-shark&tab=achievements" width="80" title="Quickdraw" alt="Quickdraw">
+  <img src="https://github-profile-trophy.vercel.app/?username=kasarshravani04&column=2&theme=radical&no-frame=true&no-bg=true" alt="GitHub Achievements" />
 </p>
 
+- **Pull Shark:** Awarded for merging pull requests and contributing to projects.
 - **Quickdraw:** Awarded for closing issues/PRs rapidly.
-- - **Pull Shark:** Awarded for merging pull requests and contributing to projects.
 
 ---
 

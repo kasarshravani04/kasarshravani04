@@ -7,8 +7,8 @@ I am a passionate **Frontend Developer** dedicated to building pixel-perfect, re
 
 ### 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://github.com/kasarshravani04/kasarshravani04/raw/main/badges/pull-shark.png" width="60" title="Pull Shark" alt="Pull Shark">
-  <img src="https://github.com/kasarshravani04/kasarshravani04/raw/main/badges/quickdraw.png" width="60" title="Quickdraw" alt="Quickdraw">
+  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-blue?style=for-the-badge&logo=github" width="60" title="Pull Shark" alt="Pull Shark">
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-purple?style=for-the-badge&logo=github" width="60" title="Quickdraw" alt="Quickdraw">
 </p>
 
 - **Pull Shark:** Awarded for merging pull requests and contributing to projects.
